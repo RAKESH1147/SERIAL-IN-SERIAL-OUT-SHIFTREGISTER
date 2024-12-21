@@ -41,11 +41,11 @@ q[2] <= q[1];
 q[3] <= q[2];
 end
 endmodule
-/* Program for flipflops and verify its truth table in quartus using Verilog programming.
+Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by:prabanjan r
-RegisterNumber:24900174
-*/
+Developed by:RAKESH.K.S
+RegisterNumber:24006757
+
 ~~~
 
 
